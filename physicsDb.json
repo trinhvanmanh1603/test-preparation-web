@@ -1,0 +1,134 @@
+{
+    "physics": [
+        {
+            "id": 1,
+            "type": "physics_mechanics",
+            "question": "Đơn vị của vận tốc là gì?",
+            "options": [
+                "m",
+                "m/s",
+                "kg",
+                "N"
+            ],
+            "answer": 1,
+            "explanation": "Vận tốc đo bằng m/s (mét trên giây)."
+        },
+        {
+            "id": 2,
+            "type": "physics_optics",
+            "question": "Ánh sáng trắng gồm bao nhiêu màu?",
+            "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": 2,
+            "explanation": "Ánh sáng trắng gồm 7 màu cơ bản."
+        },
+        {
+            "id": 3,
+            "type": "physics_sound",
+            "question": "Đơn vị của tần số âm thanh là gì?",
+            "options": [
+                "Decibel",
+                "Hertz",
+                "Watt",
+                "Volt"
+            ],
+            "answer": 1,
+            "explanation": "Tần số đo bằng đơn vị Hertz (Hz)."
+        },
+        {
+            "id": 4,
+            "type": "physics_thermodynamics",
+            "question": "Nhiệt độ 0°C bằng bao nhiêu Kelvin?",
+            "options": [
+                "273 K",
+                "0 K",
+                "100 K",
+                "212 K"
+            ],
+            "answer": 0,
+            "explanation": "0°C = 273K."
+        },
+        {
+            "id": 5,
+            "type": "physics_electricity",
+            "question": "Dòng điện là gì?",
+            "options": [
+                "Dòng chuyển động của electron",
+                "Chuyển động của ánh sáng",
+                "Lực hút",
+                "Nhiệt lượng"
+            ],
+            "answer": 0,
+            "explanation": "Dòng điện là dòng chuyển động có hướng của các electron."
+        },
+        {
+            "id": 6,
+            "type": "physics_force",
+            "question": "Công thức tính lực là?",
+            "options": [
+                "F = ma",
+                "F = mv",
+                "F = m/g",
+                "F = m + a"
+            ],
+            "answer": 0,
+            "explanation": "F = ma là định luật II Newton."
+        },
+        {
+            "id": 7,
+            "type": "physics_work",
+            "question": "Công được tính bằng?",
+            "options": [
+                "W = F × d",
+                "W = m × v",
+                "W = P × t",
+                "W = U × I"
+            ],
+            "answer": 0,
+            "explanation": "Công W = F × d (lực × quãng đường)."
+        },
+        {
+            "id": 8,
+            "type": "physics_electricity",
+            "question": "Dòng điện một chiều là gì?",
+            "options": [
+                "Dòng điện đổi chiều liên tục",
+                "Dòng điện không đổi chiều",
+                "Dòng điện không có electron",
+                "Dòng điện có ánh sáng"
+            ],
+            "answer": 1,
+            "explanation": "Dòng điện một chiều không đổi chiều theo thời gian."
+        },
+        {
+            "id": 9,
+            "type": "physics_motion",
+            "question": "Chuyển động nào sau đây là đều?",
+            "options": [
+                "Ô tô tăng tốc",
+                "Người đi bộ thay đổi tốc độ",
+                "Máy bay hạ cánh",
+                "Tàu chạy với vận tốc không đổi"
+            ],
+            "answer": 3,
+            "explanation": "Vận tốc không đổi → chuyển động đều."
+        },
+        {
+            "id": 10,
+            "type": "physics_magnetism",
+            "question": "Nam châm hút được vật nào sau đây?",
+            "options": [
+                "Gỗ",
+                "Nhựa",
+                "Sắt",
+                "Thủy tinh"
+            ],
+            "answer": 2,
+            "explanation": "Nam châm hút được sắt, niken, côban."
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "math": [
+        {
+            "id": 1,
+            "type": "math_algebra",
+            "question": "Giải phương trình: 3x - 7 = 2.",
+            "options": [
+                "x = 3",
+                "x = 2",
+                "x = 1",
+                "x = 4"
+            ],
+            "answer": 0,
+            "explanation": "3x = 9 → x = 3."
+        },
+        {
+            "id": 2,
+            "type": "math_geometry",
+            "question": "Tổng số đo các góc trong một tam giác bằng bao nhiêu độ?",
+            "options": [
+                "90°",
+                "180°",
+                "270°",
+                "360°"
+            ],
+            "answer": 1,
+            "explanation": "Tổng các góc trong tam giác luôn bằng 180°."
+        },
+        {
+            "id": 3,
+            "type": "math_arithmetic",
+            "question": "Giá trị của biểu thức: 5² + 3² là?",
+            "options": [
+                "34",
+                "25",
+                "64",
+                "16"
+            ],
+            "answer": 0,
+            "explanation": "5² + 3² = 25 + 9 = 34."
+        },
+        {
+            "id": 4,
+            "type": "math_equation",
+            "question": "Nếu f(x) = x², thì f(3) bằng?",
+            "options": [
+                "6",
+                "9",
+                "3",
+                "12"
+            ],
+            "answer": 1,
+            "explanation": "f(3) = 3² = 9."
+        },
+        {
+            "id": 5,
+            "type": "math_ratio",
+            "question": "Tìm tỉ lệ giữa 2 và 8.",
+            "options": [
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5"
+            ],
+            "answer": 2,
+            "explanation": "2:8 = 1:4."
+        },
+        {
+            "id": 6,
+            "type": "math_percent",
+            "question": "20% của 150 là bao nhiêu?",
+            "options": [
+                "30",
+                "15",
+                "20",
+                "35"
+            ],
+            "answer": 0,
+            "explanation": "150 × 0.2 = 30."
+        },
+        {
+            "id": 7,
+            "type": "math_function",
+            "question": "Hàm số y = 2x là hàm bậc mấy?",
+            "options": [
+                "Bậc nhất",
+                "Bậc hai",
+                "Bậc ba",
+                "Vô định"
+            ],
+            "answer": 0,
+            "explanation": "y = 2x là hàm bậc nhất vì số mũ của x là 1."
+        },
+        {
+            "id": 8,
+            "type": "math_area",
+            "question": "Diện tích hình tròn có bán kính 3 là?",
+            "options": [
+                "9π",
+                "6π",
+                "3π",
+                "12π"
+            ],
+            "answer": 0,
+            "explanation": "S = πr² = π × 9 = 9π."
+        },
+        {
+            "id": 9,
+            "type": "math_sequence",
+            "question": "Số tiếp theo trong dãy: 2, 4, 8, 16, ... là?",
+            "options": [
+                "18",
+                "24",
+                "32",
+                "20"
+            ],
+            "answer": 2,
+            "explanation": "Dãy nhân đôi: 16 × 2 = 32."
+        },
+        {
+            "id": 10,
+            "type": "math_logic",
+            "question": "Nếu hôm nay là thứ Hai, thì 3 ngày sau là thứ mấy?",
+            "options": [
+                "Thứ Ba",
+                "Thứ Tư",
+                "Thứ Năm",
+                "Thứ Sáu"
+            ],
+            "answer": 2,
+            "explanation": "Thứ Hai + 3 ngày = Thứ Năm."
+        }
+    ]
+}

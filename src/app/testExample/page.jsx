@@ -1,6 +1,8 @@
-import styles from "./page.module.css";
+'use client';
+
 import React from 'react';
 import Link from "next/link";
+import styles from "../page.module.css";
 
 export default function Home() {
   return (
@@ -8,28 +10,24 @@ export default function Home() {
       <main className={styles.main} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <h1>Review for the national high school graduation exam.</h1>
         <div className={styles.navigation}>
-          <Link href="/mathQuestion" className={styles.navLink}>
+          <Link href="/testExample/math" className={styles.navLink}>
             <div className={styles.card}>
-              <h2>Math Questions</h2>
-              <p>Practice your math skills</p>
+              <h2>Math example test</h2>
             </div>
           </Link>
-          <Link href="/literatureQuestion" className={styles.navLink}>
+          <Link href="/testExample/literature" className={styles.navLink}>
             <div className={styles.card}>
-              <h2>Literature Questions</h2>
-              <p>Enhance your reading comprehension skills</p>
+              <h2>Literature example test</h2>
             </div>
           </Link>
-          <Link href="/physicsQuestion" className={styles.navLink}>
+          <Link href="/testExample/physics" className={styles.navLink}>
             <div className={styles.card}>
-              <h2>Physical Questions</h2>
-              <p>Improve your analytical writing skills</p>
+              <h2>Physical example test</h2>
             </div>
           </Link>
-          <Link href="/chemistryQuestion" className={styles.navLink}>
+          <Link href="/testExample/chemistry" className={styles.navLink}>
             <div className={styles.card}>
-              <h2>Chemistry Questions</h2>
-              <p>Sharpen your analytical reasoning skills</p>
+              <h2>Chemistry example test</h2>
             </div>
           </Link>
         </div>

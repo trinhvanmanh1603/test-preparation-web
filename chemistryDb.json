@@ -1,0 +1,134 @@
+{
+    "chemistry": [
+        {
+            "id": 1,
+            "type": "chemistry_elements",
+            "question": "Nguyên tử của nguyên tố nào nhẹ nhất?",
+            "options": [
+                "Heli",
+                "Hydro",
+                "Liti",
+                "Cacbon"
+            ],
+            "answer": 1,
+            "explanation": "Hydro là nguyên tố nhẹ nhất (Z=1)."
+        },
+        {
+            "id": 2,
+            "type": "chemistry_oxidation",
+            "question": "Hợp chất nào sau đây là oxit bazơ?",
+            "options": [
+                "CO₂",
+                "Na₂O",
+                "SO₂",
+                "P₂O₅"
+            ],
+            "answer": 1,
+            "explanation": "Na₂O là oxit bazơ."
+        },
+        {
+            "id": 3,
+            "type": "chemistry_reaction",
+            "question": "Phản ứng trung hòa xảy ra khi nào?",
+            "options": [
+                "Axit tác dụng bazơ",
+                "Axit tác dụng oxit axit",
+                "Bazơ tác dụng muối",
+                "Muối tác dụng kim loại"
+            ],
+            "answer": 0,
+            "explanation": "Axit + bazơ → muối + nước (trung hòa)."
+        },
+        {
+            "id": 4,
+            "type": "chemistry_valence",
+            "question": "Nguyên tố Na có hóa trị là?",
+            "options": [
+                "I",
+                "II",
+                "III",
+                "IV"
+            ],
+            "answer": 0,
+            "explanation": "Natri (Na) hóa trị I."
+        },
+        {
+            "id": 5,
+            "type": "chemistry_acids",
+            "question": "Axit nào sau đây mạnh nhất?",
+            "options": [
+                "HCl",
+                "CH₃COOH",
+                "H₂CO₃",
+                "H₂SO₃"
+            ],
+            "answer": 0,
+            "explanation": "HCl là axit mạnh điển hình."
+        },
+        {
+            "id": 6,
+            "type": "chemistry_periodic",
+            "question": "Ô nguyên tố là gì?",
+            "options": [
+                "Số khối của nguyên tử",
+                "Số electron ngoài cùng",
+                "Số proton trong hạt nhân",
+                "Số lớp electron"
+            ],
+            "answer": 2,
+            "explanation": "Ô nguyên tố biểu thị số hiệu nguyên tử = số proton."
+        },
+        {
+            "id": 7,
+            "type": "chemistry_equation",
+            "question": "Cân bằng: H₂ + O₂ → H₂O",
+            "options": [
+                "1-1-1",
+                "2-1-2",
+                "2-2-2",
+                "1-2-2"
+            ],
+            "answer": 1,
+            "explanation": "2H₂ + O₂ → 2H₂O."
+        },
+        {
+            "id": 8,
+            "type": "chemistry_mix",
+            "question": "Dung dịch nào sau đây dẫn điện tốt?",
+            "options": [
+                "Cồn",
+                "Nước cất",
+                "Nước muối",
+                "Dầu ăn"
+            ],
+            "answer": 2,
+            "explanation": "Nước muối phân li ion → dẫn điện."
+        },
+        {
+            "id": 9,
+            "type": "chemistry_structure",
+            "question": "Cấu tạo của phân tử nước là?",
+            "options": [
+                "1 H và 1 O",
+                "2 H và 1 O",
+                "2 O và 1 H",
+                "3 H và 1 O"
+            ],
+            "answer": 1,
+            "explanation": "H₂O: 2 nguyên tử H, 1 nguyên tử O."
+        },
+        {
+            "id": 10,
+            "type": "chemistry_symbols",
+            "question": "Ký hiệu hóa học của sắt là?",
+            "options": [
+                "S",
+                "Fe",
+                "Si",
+                "F"
+            ],
+            "answer": 1,
+            "explanation": "Sắt có ký hiệu là Fe (Ferrum)."
+        }
+    ]
+}

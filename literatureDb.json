@@ -1,0 +1,134 @@
+{
+    "literature": [
+        {
+            "id": 31,
+            "type": "literature_author",
+            "question": "Ai là tác giả của 'Truyện Kiều'?",
+            "options": [
+                "Nguyễn Du",
+                "Nguyễn Trãi",
+                "Xuân Diệu",
+                "Hồ Xuân Hương"
+            ],
+            "answer": 0,
+            "explanation": "'Truyện Kiều' là tác phẩm của Nguyễn Du."
+        },
+        {
+            "id": 32,
+            "type": "literature_poetry",
+            "question": "Thể thơ lục bát gồm mấy câu?",
+            "options": [
+                "2",
+                "4",
+                "6",
+                "8"
+            ],
+            "answer": 0,
+            "explanation": "Lục bát gồm 2 câu: câu 6 và câu 8."
+        },
+        {
+            "id": 33,
+            "type": "literature_comprehension",
+            "question": "Từ 'lặng lẽ' trong 'Lặng lẽ Sa Pa' mang ý nghĩa gì?",
+            "options": [
+                "Buồn bã",
+                "Yên tĩnh",
+                "Vui vẻ",
+                "Ẩn dật"
+            ],
+            "answer": 1,
+            "explanation": "'Lặng lẽ' mang nghĩa yên tĩnh, bình dị."
+        },
+        {
+            "id": 34,
+            "type": "literature_proverb",
+            "question": "'Uống nước nhớ nguồn' dạy ta điều gì?",
+            "options": [
+                "Tiết kiệm nước",
+                "Biết ơn cội nguồn",
+                "Yêu thiên nhiên",
+                "Chăm học"
+            ],
+            "answer": 1,
+            "explanation": "Ý nghĩa: Biết ơn tổ tiên, cội nguồn."
+        },
+        {
+            "id": 35,
+            "type": "literature_genre",
+            "question": "Tác phẩm 'Tắt đèn' thuộc thể loại nào?",
+            "options": [
+                "Thơ",
+                "Truyện ngắn",
+                "Tiểu thuyết",
+                "Kịch"
+            ],
+            "answer": 2,
+            "explanation": "'Tắt đèn' là tiểu thuyết hiện thực."
+        },
+        {
+            "id": 36,
+            "type": "literature_author",
+            "question": "Tác phẩm 'Chiếc lược ngà' là của ai?",
+            "options": [
+                "Nguyễn Quang Sáng",
+                "Nguyễn Nhật Ánh",
+                "Nguyễn Huy Tưởng",
+                "Nam Cao"
+            ],
+            "answer": 0,
+            "explanation": "Tác phẩm nổi tiếng của Nguyễn Quang Sáng."
+        },
+        {
+            "id": 37,
+            "type": "literature_style",
+            "question": "'Từ ấy' là phong cách sáng tác của ai?",
+            "options": [
+                "Chế Lan Viên",
+                "Tố Hữu",
+                "Xuân Diệu",
+                "Huy Cận"
+            ],
+            "answer": 1,
+            "explanation": "'Từ ấy' thể hiện lý tưởng cách mạng của Tố Hữu."
+        },
+        {
+            "id": 38,
+            "type": "literature_synonym",
+            "question": "Từ đồng nghĩa với 'dũng cảm' là?",
+            "options": [
+                "Hèn nhát",
+                "Kiêu ngạo",
+                "Gan dạ",
+                "Bướng bỉnh"
+            ],
+            "answer": 2,
+            "explanation": "'Gan dạ' đồng nghĩa với 'dũng cảm'."
+        },
+        {
+            "id": 39,
+            "type": "literature_grammar",
+            "question": "Câu ghép là gì?",
+            "options": [
+                "Câu có 1 chủ ngữ",
+                "Câu có nhiều vế câu độc lập",
+                "Câu nghi vấn",
+                "Câu đơn"
+            ],
+            "answer": 1,
+            "explanation": "Câu ghép là câu có hai hoặc nhiều vế câu độc lập."
+        },
+        {
+            "id": 40,
+            "type": "literature_emotion",
+            "question": "Tác phẩm nào thể hiện lòng yêu nước?",
+            "options": [
+                "Bình Ngô đại cáo",
+                "Tắt đèn",
+                "Lão Hạc",
+                "Chiếc lược ngà"
+            ],
+            "answer": 0,
+            "explanation": "'Bình Ngô đại cáo' là áng văn hùng tráng thể hiện tinh thần yêu nước."
+        }
+    ]
+}
