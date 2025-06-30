@@ -129,6 +129,136 @@
             ],
             "answer": 2,
             "explanation": "Nam châm hút được sắt, niken, côban."
+        },
+        {
+            "id": 11,
+            "type": "physics_mechanics",
+            "question": "Gia tốc có đơn vị là gì?",
+            "options": [
+                "m/s",
+                "m/s²",
+                "N",
+                "kg"
+            ],
+            "answer": 1,
+            "explanation": "Gia tốc đo bằng m/s² (mét trên giây bình phương)."
+        },
+        {
+            "id": 12,
+            "type": "physics_optics",
+            "question": "Gương cầu lõm cho ảnh như thế nào?",
+            "options": [
+                "Ảnh ảo, cùng chiều",
+                "Ảnh thật, ngược chiều",
+                "Ảnh thật, cùng chiều",
+                "Ảnh ảo, ngược chiều"
+            ],
+            "answer": 1,
+            "explanation": "Gương cầu lõm có thể cho ảnh thật, ngược chiều nếu vật đặt ngoài tiêu cự."
+        },
+        {
+            "id": 13,
+            "type": "physics_sound",
+            "question": "Âm thanh truyền nhanh nhất trong môi trường nào?",
+            "options": [
+                "Chân không",
+                "Không khí",
+                "Chất rắn",
+                "Chất lỏng"
+            ],
+            "answer": 2,
+            "explanation": "Âm truyền nhanh nhất trong chất rắn, sau đó đến chất lỏng rồi không khí."
+        },
+        {
+            "id": 14,
+            "type": "physics_thermodynamics",
+            "question": "Nhiệt kế hoạt động dựa trên hiện tượng gì?",
+            "options": [
+                "Chảy",
+                "Giãn nở vì nhiệt",
+                "Bay hơi",
+                "Đông đặc"
+            ],
+            "answer": 1,
+            "explanation": "Nhiệt kế hoạt động dựa vào sự giãn nở vì nhiệt của chất lỏng (thường là thủy ngân hoặc cồn)."
+        },
+        {
+            "id": 15,
+            "type": "physics_electricity",
+            "question": "Dụng cụ nào dùng để đo hiệu điện thế?",
+            "options": [
+                "Ampe kế",
+                "Ôm kế",
+                "Vôn kế",
+                "Nhiệt kế"
+            ],
+            "answer": 2,
+            "explanation": "Vôn kế đo hiệu điện thế giữa hai điểm."
+        },
+        {
+            "id": 16,
+            "type": "physics_force",
+            "question": "Trọng lực là lực gì?",
+            "options": [
+                "Lực hút của Trái Đất",
+                "Lực đẩy của nước",
+                "Lực ma sát",
+                "Lực đàn hồi"
+            ],
+            "answer": 0,
+            "explanation": "Trọng lực là lực hút Trái Đất tác dụng lên vật."
+        },
+        {
+            "id": 17,
+            "type": "physics_work",
+            "question": "Đơn vị của công là?",
+            "options": [
+                "N",
+                "J",
+                "W",
+                "V"
+            ],
+            "answer": 1,
+            "explanation": "Đơn vị của công là Jun (J)."
+        },
+        {
+            "id": 18,
+            "type": "physics_motion",
+            "question": "Chuyển động nào có vận tốc thay đổi?",
+            "options": [
+                "Chuyển động đều",
+                "Chuyển động thẳng",
+                "Chuyển động biến đổi",
+                "Chuyển động tròn đều"
+            ],
+            "answer": 2,
+            "explanation": "Chuyển động biến đổi là chuyển động có vận tốc thay đổi theo thời gian."
+        },
+        {
+            "id": 19,
+            "type": "physics_magnetism",
+            "question": "Nam châm có hai cực là?",
+            "options": [
+                "Đông - Tây",
+                "Trái - Phải",
+                "Bắc - Nam",
+                "Âm - Dương"
+            ],
+            "answer": 2,
+            "explanation": "Nam châm có hai cực: Bắc và Nam."
+        },
+        {
+            "id": 20,
+            "type": "physics_energy",
+            "question": "Năng lượng ánh sáng Mặt Trời là dạng năng lượng gì?",
+            "options": [
+                "Hóa năng",
+                "Cơ năng",
+                "Nhiệt năng",
+                "Quang năng"
+            ],
+            "answer": 3,
+            "explanation": "Ánh sáng Mặt Trời là quang năng."
         }
     ]
 }

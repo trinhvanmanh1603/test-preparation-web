@@ -129,6 +129,136 @@
             ],
             "answer": 1,
             "explanation": "Sắt có ký hiệu là Fe (Ferrum)."
+        },
+        {
+            "id": 11,
+            "type": "chemistry_elements",
+            "question": "Nguyên tố nào sau đây là kim loại kiềm?",
+            "options": [
+                "Na",
+                "Mg",
+                "Al",
+                "Fe"
+            ],
+            "answer": 0,
+            "explanation": "Na (natri) là kim loại kiềm thuộc nhóm IA."
+        },
+        {
+            "id": 12,
+            "type": "chemistry_bonding",
+            "question": "Liên kết trong phân tử H₂ là gì?",
+            "options": [
+                "Ion",
+                "Kim loại",
+                "Cộng hóa trị không cực",
+                "Cộng hóa trị có cực"
+            ],
+            "answer": 2,
+            "explanation": "H₂ có liên kết cộng hóa trị không cực vì 2 nguyên tử H giống nhau."
+        },
+        {
+            "id": 13,
+            "type": "chemistry_acids",
+            "question": "Axit sunfuric có công thức là gì?",
+            "options": [
+                "HNO₃",
+                "H₂SO₄",
+                "HCl",
+                "H₂CO₃"
+            ],
+            "answer": 1,
+            "explanation": "H₂SO₄ là công thức của axit sunfuric."
+        },
+        {
+            "id": 14,
+            "type": "chemistry_oxidation",
+            "question": "Sản phẩm khi Fe tác dụng với O₂ là?",
+            "options": [
+                "FeO",
+                "Fe₂O₃",
+                "Fe₃O₄",
+                "Cả ba đáp án trên"
+            ],
+            "answer": 3,
+            "explanation": "Tùy điều kiện, Fe có thể tạo ra FeO, Fe₂O₃ hoặc Fe₃O₄."
+        },
+        {
+            "id": 15,
+            "type": "chemistry_reaction",
+            "question": "Phản ứng nào sau đây là phản ứng thế?",
+            "options": [
+                "Zn + HCl → ZnCl₂ + H₂",
+                "NaOH + HCl → NaCl + H₂O",
+                "C + O₂ → CO₂",
+                "CaO + H₂O → Ca(OH)₂"
+            ],
+            "answer": 0,
+            "explanation": "Kim loại Zn thay thế H trong axit → phản ứng thế."
+        },
+        {
+            "id": 16,
+            "type": "chemistry_periodic",
+            "question": "Nguyên tố có chu kỳ 2, nhóm VIIA là?",
+            "options": [
+                "F",
+                "Cl",
+                "Br",
+                "I"
+            ],
+            "answer": 0,
+            "explanation": "F (flo) thuộc chu kỳ 2, nhóm VIIA."
+        },
+        {
+            "id": 17,
+            "type": "chemistry_valence",
+            "question": "Trong hợp chất H₂O, oxi có hóa trị bao nhiêu?",
+            "options": [
+                "I",
+                "II",
+                "III",
+                "IV"
+            ],
+            "answer": 1,
+            "explanation": "Oxi có hóa trị II trong hầu hết các hợp chất, như H₂O."
+        },
+        {
+            "id": 18,
+            "type": "chemistry_equation",
+            "question": "Phản ứng nào tạo kết tủa trắng?",
+            "options": [
+                "NaOH + HCl",
+                "BaCl₂ + H₂SO₄",
+                "AgNO₃ + NaCl",
+                "Ca(OH)₂ + CO₂"
+            ],
+            "answer": 2,
+            "explanation": "AgNO₃ + NaCl → AgCl↓ (kết tủa trắng)."
+        },
+        {
+            "id": 19,
+            "type": "chemistry_mix",
+            "question": "Chất nào sau đây là hợp chất?",
+            "options": [
+                "O₂",
+                "Na",
+                "HCl",
+                "Fe"
+            ],
+            "answer": 2,
+            "explanation": "HCl là hợp chất gồm hai nguyên tố H và Cl."
+        },
+        {
+            "id": 20,
+            "type": "chemistry_symbols",
+            "question": "Nguyên tố có ký hiệu là Ca là?",
+            "options": [
+                "Cacbon",
+                "Canxi",
+                "Clo",
+                "Crom"
+            ],
+            "answer": 1,
+            "explanation": "Ca là ký hiệu của nguyên tố Canxi."
         }
     ]
 }

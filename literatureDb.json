@@ -129,6 +129,136 @@
             ],
             "answer": 0,
             "explanation": "'Bình Ngô đại cáo' là áng văn hùng tráng thể hiện tinh thần yêu nước."
+        },
+        {
+            "id": 41,
+            "type": "literature_author",
+            "question": "Ai là tác giả của truyện ngắn 'Lão Hạc'?",
+            "options": [
+                "Nam Cao",
+                "Ngô Tất Tố",
+                "Tô Hoài",
+                "Kim Lân"
+            ],
+            "answer": 0,
+            "explanation": "'Lão Hạc' là một tác phẩm nổi tiếng của Nam Cao."
+        },
+        {
+            "id": 42,
+            "type": "literature_poetry",
+            "question": "Thể thơ nào có các câu 7 chữ?",
+            "options": [
+                "Thất ngôn bát cú",
+                "Lục bát",
+                "Ngũ ngôn",
+                "Tự do"
+            ],
+            "answer": 0,
+            "explanation": "Thất ngôn bát cú có mỗi câu 7 chữ, gồm 8 câu."
+        },
+        {
+            "id": 43,
+            "type": "literature_proverb",
+            "question": "'Có công mài sắt, có ngày nên kim' khuyên điều gì?",
+            "options": [
+                "Chăm học tiếng Anh",
+                "Làm việc tập thể",
+                "Kiên trì sẽ thành công",
+                "Giữ gìn sức khỏe"
+            ],
+            "answer": 2,
+            "explanation": "Câu tục ngữ khuyên ta phải kiên trì, bền bỉ để đạt được kết quả."
+        },
+        {
+            "id": 44,
+            "type": "literature_genre",
+            "question": "Thể loại của 'Chuyện người con gái Nam Xương' là gì?",
+            "options": [
+                "Truyền thuyết",
+                "Truyện cổ tích",
+                "Truyện trung đại",
+                "Thơ mới"
+            ],
+            "answer": 2,
+            "explanation": "Tác phẩm thuộc thể loại truyện trung đại, của Nguyễn Dữ."
+        },
+        {
+            "id": 45,
+            "type": "literature_comprehension",
+            "question": "Nhân vật ông Hai trong 'Làng' có phẩm chất gì nổi bật?",
+            "options": [
+                "Tham lam",
+                "Yêu nước",
+                "Giàu có",
+                "Lười biếng"
+            ],
+            "answer": 1,
+            "explanation": "Ông Hai là người nông dân yêu làng, yêu nước sâu sắc."
+        },
+        {
+            "id": 46,
+            "type": "literature_emotion",
+            "question": "Tác phẩm 'Viếng lăng Bác' thể hiện tình cảm gì?",
+            "options": [
+                "Niềm vui",
+                "Tình yêu thiên nhiên",
+                "Lòng biết ơn và kính trọng",
+                "Sự tiếc nuối tuổi trẻ"
+            ],
+            "answer": 2,
+            "explanation": "Bài thơ thể hiện lòng thành kính, biết ơn Bác Hồ."
+        },
+        {
+            "id": 47,
+            "type": "literature_synonym",
+            "question": "Từ đồng nghĩa với 'hiền lành' là?",
+            "options": [
+                "Ác độc",
+                "Tử tế",
+                "Lười biếng",
+                "Giận dữ"
+            ],
+            "answer": 1,
+            "explanation": "'Tử tế' là từ đồng nghĩa với 'hiền lành'."
+        },
+        {
+            "id": 48,
+            "type": "literature_grammar",
+            "question": "Trong câu 'Em đi học', từ 'em' là gì?",
+            "options": [
+                "Vị ngữ",
+                "Trạng ngữ",
+                "Chủ ngữ",
+                "Bổ ngữ"
+            ],
+            "answer": 2,
+            "explanation": "'Em' là chủ ngữ, 'đi học' là vị ngữ."
+        },
+        {
+            "id": 49,
+            "type": "literature_style",
+            "question": "Phong cách sáng tác của Nam Cao thường gắn với điều gì?",
+            "options": [
+                "Chủ nghĩa lãng mạn",
+                "Hiện thực và nhân đạo",
+                "Thơ ca trữ tình",
+                "Truyền thuyết lịch sử"
+            ],
+            "answer": 1,
+            "explanation": "Nam Cao nổi tiếng với phong cách hiện thực, nhân đạo."
+        },
+        {
+            "id": 50,
+            "type": "literature_vocab",
+            "question": "Từ 'trầm lặng' gần nghĩa với từ nào sau đây?",
+            "options": [
+                "Im ắng",
+                "Hồn nhiên",
+                "Ồn ào",
+                "Sôi nổi"
+            ],
+            "answer": 0,
+            "explanation": "'Trầm lặng' gần nghĩa với 'im ắng', thể hiện sự yên tĩnh."
         }
     ]
 }

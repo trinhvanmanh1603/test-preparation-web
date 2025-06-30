@@ -29,18 +29,14 @@ const AntdLayout = ({ children }) => {
 
   return (
     <Layout>
-      <CustomHeader />      <div style={{ padding: '0 48px' }}>
-        <Breadcrumb
-          style={{ margin: '16px 0' }}
-          items={getBreadcrumbItems(pathname)}
-        />
+      <CustomHeader /> <div style={{ padding: '2rem' }}>
         <Layout
-          style={{ padding: '24px 0', background: colorBgContainer, borderRadius: borderRadiusLG }}
+          style={{ padding: '2rem 0', background: colorBgContainer, borderRadius: borderRadiusLG }}
         >
           <Sider style={{ background: colorBgContainer }} width={200}>
             <CustomMenu />
           </Sider>
-          <Content style={{ padding: '0 24px', minHeight: 280 }}>{children}</Content>
+          <Content style={{ padding: '0 2rem', minHeight: 280 }}>{children}</Content>
         </Layout>
       </div>
       <CustomFooter />

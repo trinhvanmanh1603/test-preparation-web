@@ -49,7 +49,7 @@ const StepComponent = ({ questions }) => {
         <>
             <Steps
                 current={current}
-                items={questions.map((q) => ({ key: String(q.id), title: `Câu ${q.id}` }))}
+                items={questions.map((q) => ({ key: String(q.id) }))}
             />
 
             <div style={contentStyle}>

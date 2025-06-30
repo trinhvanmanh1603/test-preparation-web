@@ -1,7 +1,7 @@
 export const menuData = [
     {
         id: '1',
-        title: 'Test online',
+        title: 'Quick Test',
         icon: 'home',
         children: [
             {
@@ -14,25 +14,25 @@ export const menuData = [
                 id: '1-2',
                 title: 'Math',
                 icon: 'edit',
-                Link: '/mathQuestion'
+                Link: '/math'
             },
             {
                 id: '1-3',
                 title: 'Literature',
                 icon: 'chart',
-                Link: '/literatureQuestion'
+                Link: '/literature'
             },
             {
                 id: '1-4',
                 title: 'Chemistry',
                 icon: 'science',
-                Link: '/chemistryQuestion'
+                Link: '/chemistry'
             },
             {
                 id: '1-5',
                 title: 'Physics',
                 icon: 'calculator',
-                Link: '/physicsQuestion'
+                Link: '/physics'
             },
         ]
     },

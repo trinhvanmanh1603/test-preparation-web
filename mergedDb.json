@@ -129,6 +129,136 @@
       ],
       "answer": 2,
       "explanation": "Thứ Hai + 3 ngày = Thứ Năm."
+    },
+    {
+      "id": 11,
+      "type": "math_fraction",
+      "question": "1/2 + 1/4 bằng bao nhiêu?",
+      "options": [
+        "2/6",
+        "3/4",
+        "1/3",
+        "5/8"
+      ],
+      "answer": 1,
+      "explanation": "1/2 + 1/4 = 2/4 + 1/4 = 3/4."
+    },
+    {
+      "id": 12,
+      "type": "math_algebra",
+      "question": "Giải phương trình: x/2 = 5.",
+      "options": [
+        "x = 7",
+        "x = 10",
+        "x = 5",
+        "x = 15"
+      ],
+      "answer": 1,
+      "explanation": "x = 5 × 2 = 10."
+    },
+    {
+      "id": 13,
+      "type": "math_geometry",
+      "question": "Một hình vuông có cạnh dài 4 thì chu vi là bao nhiêu?",
+      "options": [
+        "12",
+        "8",
+        "16",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "Chu vi = 4 × 4 = 16."
+    },
+    {
+      "id": 14,
+      "type": "math_arithmetic",
+      "question": "Giá trị của biểu thức: (6 + 4) × 2 là?",
+      "options": [
+        "16",
+        "20",
+        "12",
+        "22"
+      ],
+      "answer": 1,
+      "explanation": "(6 + 4) × 2 = 10 × 2 = 20."
+    },
+    {
+      "id": 15,
+      "type": "math_equation",
+      "question": "Nếu g(x) = 2x + 1, thì g(4) bằng?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "g(4) = 2 × 4 + 1 = 8 + 1 = 9."
+    },
+    {
+      "id": 16,
+      "type": "math_ratio",
+      "question": "Tìm tỉ lệ giữa 9 và 3.",
+      "options": [
+        "3:1",
+        "1:2",
+        "1:3",
+        "2:1"
+      ],
+      "answer": 0,
+      "explanation": "9:3 = 3:1."
+    },
+    {
+      "id": 17,
+      "type": "math_percent",
+      "question": "50% của 80 là bao nhiêu?",
+      "options": [
+        "40",
+        "30",
+        "20",
+        "50"
+      ],
+      "answer": 0,
+      "explanation": "80 × 0.5 = 40."
+    },
+    {
+      "id": 18,
+      "type": "math_function",
+      "question": "Hàm số y = x³ là hàm bậc mấy?",
+      "options": [
+        "Bậc hai",
+        "Bậc ba",
+        "Bậc nhất",
+        "Vô định"
+      ],
+      "answer": 1,
+      "explanation": "Số mũ lớn nhất của x là 3 nên hàm bậc ba."
+    },
+    {
+      "id": 19,
+      "type": "math_area",
+      "question": "Diện tích hình vuông cạnh 5 là?",
+      "options": [
+        "10",
+        "20",
+        "25",
+        "30"
+      ],
+      "answer": 2,
+      "explanation": "S = a² = 5² = 25."
+    },
+    {
+      "id": 20,
+      "type": "math_logic",
+      "question": "Nếu hôm nay là thứ Sáu, thì ngày mai là thứ mấy?",
+      "options": [
+        "Thứ Sáu",
+        "Thứ Bảy",
+        "Chủ Nhật",
+        "Thứ Hai"
+      ],
+      "answer": 1,
+      "explanation": "Thứ Sáu + 1 ngày = Thứ Bảy."
     }
   ],
   "literature": [
@@ -261,6 +391,136 @@
       ],
       "answer": 0,
       "explanation": "'Bình Ngô đại cáo' là áng văn hùng tráng thể hiện tinh thần yêu nước."
+    },
+    {
+      "id": 41,
+      "type": "literature_author",
+      "question": "Ai là tác giả của truyện ngắn 'Lão Hạc'?",
+      "options": [
+        "Nam Cao",
+        "Ngô Tất Tố",
+        "Tô Hoài",
+        "Kim Lân"
+      ],
+      "answer": 0,
+      "explanation": "'Lão Hạc' là một tác phẩm nổi tiếng của Nam Cao."
+    },
+    {
+      "id": 42,
+      "type": "literature_poetry",
+      "question": "Thể thơ nào có các câu 7 chữ?",
+      "options": [
+        "Thất ngôn bát cú",
+        "Lục bát",
+        "Ngũ ngôn",
+        "Tự do"
+      ],
+      "answer": 0,
+      "explanation": "Thất ngôn bát cú có mỗi câu 7 chữ, gồm 8 câu."
+    },
+    {
+      "id": 43,
+      "type": "literature_proverb",
+      "question": "'Có công mài sắt, có ngày nên kim' khuyên điều gì?",
+      "options": [
+        "Chăm học tiếng Anh",
+        "Làm việc tập thể",
+        "Kiên trì sẽ thành công",
+        "Giữ gìn sức khỏe"
+      ],
+      "answer": 2,
+      "explanation": "Câu tục ngữ khuyên ta phải kiên trì, bền bỉ để đạt được kết quả."
+    },
+    {
+      "id": 44,
+      "type": "literature_genre",
+      "question": "Thể loại của 'Chuyện người con gái Nam Xương' là gì?",
+      "options": [
+        "Truyền thuyết",
+        "Truyện cổ tích",
+        "Truyện trung đại",
+        "Thơ mới"
+      ],
+      "answer": 2,
+      "explanation": "Tác phẩm thuộc thể loại truyện trung đại, của Nguyễn Dữ."
+    },
+    {
+      "id": 45,
+      "type": "literature_comprehension",
+      "question": "Nhân vật ông Hai trong 'Làng' có phẩm chất gì nổi bật?",
+      "options": [
+        "Tham lam",
+        "Yêu nước",
+        "Giàu có",
+        "Lười biếng"
+      ],
+      "answer": 1,
+      "explanation": "Ông Hai là người nông dân yêu làng, yêu nước sâu sắc."
+    },
+    {
+      "id": 46,
+      "type": "literature_emotion",
+      "question": "Tác phẩm 'Viếng lăng Bác' thể hiện tình cảm gì?",
+      "options": [
+        "Niềm vui",
+        "Tình yêu thiên nhiên",
+        "Lòng biết ơn và kính trọng",
+        "Sự tiếc nuối tuổi trẻ"
+      ],
+      "answer": 2,
+      "explanation": "Bài thơ thể hiện lòng thành kính, biết ơn Bác Hồ."
+    },
+    {
+      "id": 47,
+      "type": "literature_synonym",
+      "question": "Từ đồng nghĩa với 'hiền lành' là?",
+      "options": [
+        "Ác độc",
+        "Tử tế",
+        "Lười biếng",
+        "Giận dữ"
+      ],
+      "answer": 1,
+      "explanation": "'Tử tế' là từ đồng nghĩa với 'hiền lành'."
+    },
+    {
+      "id": 48,
+      "type": "literature_grammar",
+      "question": "Trong câu 'Em đi học', từ 'em' là gì?",
+      "options": [
+        "Vị ngữ",
+        "Trạng ngữ",
+        "Chủ ngữ",
+        "Bổ ngữ"
+      ],
+      "answer": 2,
+      "explanation": "'Em' là chủ ngữ, 'đi học' là vị ngữ."
+    },
+    {
+      "id": 49,
+      "type": "literature_style",
+      "question": "Phong cách sáng tác của Nam Cao thường gắn với điều gì?",
+      "options": [
+        "Chủ nghĩa lãng mạn",
+        "Hiện thực và nhân đạo",
+        "Thơ ca trữ tình",
+        "Truyền thuyết lịch sử"
+      ],
+      "answer": 1,
+      "explanation": "Nam Cao nổi tiếng với phong cách hiện thực, nhân đạo."
+    },
+    {
+      "id": 50,
+      "type": "literature_vocab",
+      "question": "Từ 'trầm lặng' gần nghĩa với từ nào sau đây?",
+      "options": [
+        "Im ắng",
+        "Hồn nhiên",
+        "Ồn ào",
+        "Sôi nổi"
+      ],
+      "answer": 0,
+      "explanation": "'Trầm lặng' gần nghĩa với 'im ắng', thể hiện sự yên tĩnh."
     }
   ],
   "chemistry": [
@@ -393,6 +653,136 @@
       ],
       "answer": 1,
       "explanation": "Sắt có ký hiệu là Fe (Ferrum)."
+    },
+    {
+      "id": 11,
+      "type": "chemistry_elements",
+      "question": "Nguyên tố nào sau đây là kim loại kiềm?",
+      "options": [
+        "Na",
+        "Mg",
+        "Al",
+        "Fe"
+      ],
+      "answer": 0,
+      "explanation": "Na (natri) là kim loại kiềm thuộc nhóm IA."
+    },
+    {
+      "id": 12,
+      "type": "chemistry_bonding",
+      "question": "Liên kết trong phân tử H₂ là gì?",
+      "options": [
+        "Ion",
+        "Kim loại",
+        "Cộng hóa trị không cực",
+        "Cộng hóa trị có cực"
+      ],
+      "answer": 2,
+      "explanation": "H₂ có liên kết cộng hóa trị không cực vì 2 nguyên tử H giống nhau."
+    },
+    {
+      "id": 13,
+      "type": "chemistry_acids",
+      "question": "Axit sunfuric có công thức là gì?",
+      "options": [
+        "HNO₃",
+        "H₂SO₄",
+        "HCl",
+        "H₂CO₃"
+      ],
+      "answer": 1,
+      "explanation": "H₂SO₄ là công thức của axit sunfuric."
+    },
+    {
+      "id": 14,
+      "type": "chemistry_oxidation",
+      "question": "Sản phẩm khi Fe tác dụng với O₂ là?",
+      "options": [
+        "FeO",
+        "Fe₂O₃",
+        "Fe₃O₄",
+        "Cả ba đáp án trên"
+      ],
+      "answer": 3,
+      "explanation": "Tùy điều kiện, Fe có thể tạo ra FeO, Fe₂O₃ hoặc Fe₃O₄."
+    },
+    {
+      "id": 15,
+      "type": "chemistry_reaction",
+      "question": "Phản ứng nào sau đây là phản ứng thế?",
+      "options": [
+        "Zn + HCl → ZnCl₂ + H₂",
+        "NaOH + HCl → NaCl + H₂O",
+        "C + O₂ → CO₂",
+        "CaO + H₂O → Ca(OH)₂"
+      ],
+      "answer": 0,
+      "explanation": "Kim loại Zn thay thế H trong axit → phản ứng thế."
+    },
+    {
+      "id": 16,
+      "type": "chemistry_periodic",
+      "question": "Nguyên tố có chu kỳ 2, nhóm VIIA là?",
+      "options": [
+        "F",
+        "Cl",
+        "Br",
+        "I"
+      ],
+      "answer": 0,
+      "explanation": "F (flo) thuộc chu kỳ 2, nhóm VIIA."
+    },
+    {
+      "id": 17,
+      "type": "chemistry_valence",
+      "question": "Trong hợp chất H₂O, oxi có hóa trị bao nhiêu?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "answer": 1,
+      "explanation": "Oxi có hóa trị II trong hầu hết các hợp chất, như H₂O."
+    },
+    {
+      "id": 18,
+      "type": "chemistry_equation",
+      "question": "Phản ứng nào tạo kết tủa trắng?",
+      "options": [
+        "NaOH + HCl",
+        "BaCl₂ + H₂SO₄",
+        "AgNO₃ + NaCl",
+        "Ca(OH)₂ + CO₂"
+      ],
+      "answer": 2,
+      "explanation": "AgNO₃ + NaCl → AgCl↓ (kết tủa trắng)."
+    },
+    {
+      "id": 19,
+      "type": "chemistry_mix",
+      "question": "Chất nào sau đây là hợp chất?",
+      "options": [
+        "O₂",
+        "Na",
+        "HCl",
+        "Fe"
+      ],
+      "answer": 2,
+      "explanation": "HCl là hợp chất gồm hai nguyên tố H và Cl."
+    },
+    {
+      "id": 20,
+      "type": "chemistry_symbols",
+      "question": "Nguyên tố có ký hiệu là Ca là?",
+      "options": [
+        "Cacbon",
+        "Canxi",
+        "Clo",
+        "Crom"
+      ],
+      "answer": 1,
+      "explanation": "Ca là ký hiệu của nguyên tố Canxi."
     }
   ],
   "physics": [
@@ -525,6 +915,136 @@
       ],
       "answer": 2,
       "explanation": "Nam châm hút được sắt, niken, côban."
+    },
+    {
+      "id": 11,
+      "type": "physics_mechanics",
+      "question": "Gia tốc có đơn vị là gì?",
+      "options": [
+        "m/s",
+        "m/s²",
+        "N",
+        "kg"
+      ],
+      "answer": 1,
+      "explanation": "Gia tốc đo bằng m/s² (mét trên giây bình phương)."
+    },
+    {
+      "id": 12,
+      "type": "physics_optics",
+      "question": "Gương cầu lõm cho ảnh như thế nào?",
+      "options": [
+        "Ảnh ảo, cùng chiều",
+        "Ảnh thật, ngược chiều",
+        "Ảnh thật, cùng chiều",
+        "Ảnh ảo, ngược chiều"
+      ],
+      "answer": 1,
+      "explanation": "Gương cầu lõm có thể cho ảnh thật, ngược chiều nếu vật đặt ngoài tiêu cự."
+    },
+    {
+      "id": 13,
+      "type": "physics_sound",
+      "question": "Âm thanh truyền nhanh nhất trong môi trường nào?",
+      "options": [
+        "Chân không",
+        "Không khí",
+        "Chất rắn",
+        "Chất lỏng"
+      ],
+      "answer": 2,
+      "explanation": "Âm truyền nhanh nhất trong chất rắn, sau đó đến chất lỏng rồi không khí."
+    },
+    {
+      "id": 14,
+      "type": "physics_thermodynamics",
+      "question": "Nhiệt kế hoạt động dựa trên hiện tượng gì?",
+      "options": [
+        "Chảy",
+        "Giãn nở vì nhiệt",
+        "Bay hơi",
+        "Đông đặc"
+      ],
+      "answer": 1,
+      "explanation": "Nhiệt kế hoạt động dựa vào sự giãn nở vì nhiệt của chất lỏng (thường là thủy ngân hoặc cồn)."
+    },
+    {
+      "id": 15,
+      "type": "physics_electricity",
+      "question": "Dụng cụ nào dùng để đo hiệu điện thế?",
+      "options": [
+        "Ampe kế",
+        "Ôm kế",
+        "Vôn kế",
+        "Nhiệt kế"
+      ],
+      "answer": 2,
+      "explanation": "Vôn kế đo hiệu điện thế giữa hai điểm."
+    },
+    {
+      "id": 16,
+      "type": "physics_force",
+      "question": "Trọng lực là lực gì?",
+      "options": [
+        "Lực hút của Trái Đất",
+        "Lực đẩy của nước",
+        "Lực ma sát",
+        "Lực đàn hồi"
+      ],
+      "answer": 0,
+      "explanation": "Trọng lực là lực hút Trái Đất tác dụng lên vật."
+    },
+    {
+      "id": 17,
+      "type": "physics_work",
+      "question": "Đơn vị của công là?",
+      "options": [
+        "N",
+        "J",
+        "W",
+        "V"
+      ],
+      "answer": 1,
+      "explanation": "Đơn vị của công là Jun (J)."
+    },
+    {
+      "id": 18,
+      "type": "physics_motion",
+      "question": "Chuyển động nào có vận tốc thay đổi?",
+      "options": [
+        "Chuyển động đều",
+        "Chuyển động thẳng",
+        "Chuyển động biến đổi",
+        "Chuyển động tròn đều"
+      ],
+      "answer": 2,
+      "explanation": "Chuyển động biến đổi là chuyển động có vận tốc thay đổi theo thời gian."
+    },
+    {
+      "id": 19,
+      "type": "physics_magnetism",
+      "question": "Nam châm có hai cực là?",
+      "options": [
+        "Đông - Tây",
+        "Trái - Phải",
+        "Bắc - Nam",
+        "Âm - Dương"
+      ],
+      "answer": 2,
+      "explanation": "Nam châm có hai cực: Bắc và Nam."
+    },
+    {
+      "id": 20,
+      "type": "physics_energy",
+      "question": "Năng lượng ánh sáng Mặt Trời là dạng năng lượng gì?",
+      "options": [
+        "Hóa năng",
+        "Cơ năng",
+        "Nhiệt năng",
+        "Quang năng"
+      ],
+      "answer": 3,
+      "explanation": "Ánh sáng Mặt Trời là quang năng."
     }
   ],
   "testSample": [

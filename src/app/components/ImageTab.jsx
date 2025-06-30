@@ -12,7 +12,7 @@ const ImageTab = ({ data }) => {
   const prev = () => setCurrent((prev) => prev - 1);
 
   const contentStyle = {
-    padding: 24,
+    padding: '2rem',
     color: token.colorText,
     backgroundColor: token.colorFillAlter,
     borderRadius: token.borderRadiusLG,

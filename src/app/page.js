@@ -8,25 +8,25 @@ export default function Home() {
       <main className={styles.main} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <h1>Review for the national high school graduation exam.</h1>
         <div className={styles.navigation}>
-          <Link href="/mathQuestion" className={styles.navLink}>
+          <Link href="/math" className={styles.navLink}>
             <div className={styles.card}>
               <h2>Math Questions</h2>
               <p>Practice your math skills</p>
             </div>
           </Link>
-          <Link href="/literatureQuestion" className={styles.navLink}>
+          <Link href="/literature" className={styles.navLink}>
             <div className={styles.card}>
               <h2>Literature Questions</h2>
               <p>Enhance your reading comprehension skills</p>
             </div>
           </Link>
-          <Link href="/physicsQuestion" className={styles.navLink}>
+          <Link href="/physics" className={styles.navLink}>
             <div className={styles.card}>
               <h2>Physical Questions</h2>
               <p>Improve your analytical writing skills</p>
             </div>
           </Link>
-          <Link href="/chemistryQuestion" className={styles.navLink}>
+          <Link href="/chemistry" className={styles.navLink}>
             <div className={styles.card}>
               <h2>Chemistry Questions</h2>
               <p>Sharpen your analytical reasoning skills</p>
