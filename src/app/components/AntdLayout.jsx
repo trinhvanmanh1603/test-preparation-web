@@ -36,7 +36,7 @@ const AntdLayout = ({ children }) => {
           <Sider style={{ background: colorBgContainer }} width={200}>
             <CustomMenu />
           </Sider>
-          <Content style={{ padding: '0 2rem', minHeight: 280 }}>{children}</Content>
+          <Content style={{ padding: '0 2rem', minHeight: '90vh' }}>{children}</Content>
         </Layout>
       </div>
       <CustomFooter />

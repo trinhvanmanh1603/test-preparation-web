@@ -1,39 +1,29 @@
-import styles from "./page.module.css";
+'use client';
+
 import React from 'react';
-import Link from "next/link";
+import HomePage from './components/HomePage';
+import { useMenuData } from '@/hooks/useMenuData';
 
 export default function Home() {
+  const { getMenuChildren, addDescriptions } = useMenuData();
+  
+  const quickTestItems = getMenuChildren('1');
+  
+  const itemsWithDescriptions = addDescriptions(quickTestItems, {
+    'Home': 'Trang chủ tổng quan',
+    'Math': 'Luyện tập câu hỏi Toán học',
+    'Literature': 'Luyện tập câu hỏi Ngữ văn',
+    'Chemistry': 'Luyện tập câu hỏi Hóa học',
+    'Physics': 'Luyện tập câu hỏi Vật lý'
+  });
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-        <h1>Review for the national high school graduation exam.</h1>
-        <div className={styles.navigation}>
-          <Link href="/math" className={styles.navLink}>
-            <div className={styles.card}>
-              <h2>Math Questions</h2>
-              <p>Practice your math skills</p>
-            </div>
-          </Link>
-          <Link href="/literature" className={styles.navLink}>
-            <div className={styles.card}>
-              <h2>Literature Questions</h2>
-              <p>Enhance your reading comprehension skills</p>
-            </div>
-          </Link>
-          <Link href="/physics" className={styles.navLink}>
-            <div className={styles.card}>
-              <h2>Physical Questions</h2>
-              <p>Improve your analytical writing skills</p>
-            </div>
-          </Link>
-          <Link href="/chemistry" className={styles.navLink}>
-            <div className={styles.card}>
-              <h2>Chemistry Questions</h2>
-              <p>Sharpen your analytical reasoning skills</p>
-            </div>
-          </Link>
-        </div>
-      </main>
-    </div>
+    <HomePage
+      title="Ôn thi tốt nghiệp THPT"
+      subtitle="Chọn môn học để bắt đầu luyện tập"
+      menuItems={itemsWithDescriptions}
+      showIcons={true}
+      columns={{ xs: 1, sm: 2, md: 3, lg: 4 }}
+    />
   );
 }
